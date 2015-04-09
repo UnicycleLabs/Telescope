@@ -11,6 +11,9 @@ Package.onUse(function (api) {
   api.addFiles([
     'lib/client/stylesheets/style.css',
     'lib/client/templates/new_posts_list.html',
+    'lib/client/templates/hero_image.html',
+    'lib/client/templates/footer.html',
     'lib/client/custom.js',
     ], ['client']);
+
 });
