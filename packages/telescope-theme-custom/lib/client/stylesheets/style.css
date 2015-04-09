@@ -1,8 +1,78 @@
+html {
+
+}
+
 body {
   background-color: #EEE;
 }
 
+/* Header */
+
+header {
+
+}
+
+header .btn-primary {
+
+}
+
+/* Posts */
+
 .welcome-message {
   text-align: center;
   color: white;
+}
+
+.post {
+
+}
+
+.post-content {
+
+}
+
+.post-content .post-thumbnail {
+
+}
+
+.post-content .post-info {
+
+}
+
+.post-content .post-info .post-heading {
+
+}
+
+.post-content .post-info ..post-domain {
+
+}
+
+.post-content .post-info .post-meta {
+
+}
+
+.post-content .post-info .post-meta .post-author {
+  
+}
+
+/* Single Post */
+
+.single-post {
+
+}
+
+.single-post .post-body {
+
+}
+
+.single-post .comments {
+
+}
+
+.single-post .comment-new {
+
+}
+
+.single-post .comment-new .btn-submit {
+  
 }
